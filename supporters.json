@@ -20,7 +20,7 @@
       "tier": "platinum",
       "cosmetics": {
         "trails": ["wolf_prints","ratvenom"],
-        "addons": ["tiara"],
+        "addons": ["tiara","beanie","succubus_wings","golden_laurel","teemo_hat"],
         "effects": []
       }
     },
@@ -28,7 +28,7 @@
       "uuid": "7f558b0f-cbad-4a8e-8b04-ce285a9036ce",
       "name": "mc_johannes",
       "note": "",
-      "tier": "gold"
+      "tier": "platinum"
     },
     {
       "uuid": "cc958356-3c96-4bc8-89b6-496b15951134",
