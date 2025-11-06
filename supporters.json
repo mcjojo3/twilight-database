@@ -6,7 +6,12 @@
       "uuid": "a77ec3de-093b-40cd-bbd7-0f85743fce72",
       "name": "lage03",
       "note": "",
-      "tier": "bronze"
+      "tier": "bronze",
+      "cosmetics": {
+        "trails": [],
+        "addons": ["teemo_hat"],
+        "effects": []
+      }
     },
     {
       "uuid": "380df991-f603-344c-a090-369bad2a924a",
