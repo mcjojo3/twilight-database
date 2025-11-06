@@ -86,6 +86,36 @@
         "addons": [],
         "effects": []
       }
+    },
+    {
+      "uuid": "915c9a59-5330-45ac-9d85-7fb46254c684",
+      "name": "NelySxcks",
+      "note": "",
+      "cosmetics": {
+        "trails": ["succubus_wings"],
+        "addons": [],
+        "effects": []
+      }
+    },
+    {
+      "uuid": "cb2a4b2d-22bc-4341-b111-471a5230b74c",
+      "name": "ShanghaiDragons",
+      "note": "",
+      "cosmetics": {
+        "trails": ["golden_laurel"],
+        "addons": [],
+        "effects": []
+      }
+    },
+    {
+      "uuid": "57f87154-0c4b-4bd1-8029-eed9249b40f9",
+      "name": "Just_a_Goose",
+      "note": "",
+      "cosmetics": {
+        "trails": ["beanie"],
+        "addons": [],
+        "effects": []
+      }
     }
   ]
 }
