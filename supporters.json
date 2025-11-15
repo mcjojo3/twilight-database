@@ -30,8 +30,8 @@
       "note": "",
       "tier": "platinum",
       "cosmetics": {
-        "trails": ["wolf_prints","ratvenom"],
-        "addons": ["tiara","beanie","succubus_wings","golden_laurel","teemo_hat","honey"],
+        "trails": ["wolf_prints","ratvenom","honey"],
+        "addons": ["tiara","beanie","succubus_wings","golden_laurel","teemo_hat"],
         "effects": []
       }
     },
@@ -41,7 +41,7 @@
       "note": "",
       "tier": "platinum",
       "cosmetics": {
-        "trails": ["wolf_prints","ratvenom"],
+        "trails": ["wolf_prints","ratvenom","honey"],
         "addons": ["tiara","beanie","succubus_wings","golden_laurel","teemo_hat"],
         "effects": []
       }
