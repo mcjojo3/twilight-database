@@ -28,13 +28,23 @@
       "uuid": "7f558b0f-cbad-4a8e-8b04-ce285a9036ce",
       "name": "mc_johannes",
       "note": "",
-      "tier": "platinum"
+      "tier": "platinum",
+      "cosmetics": {
+        "trails": ["wolf_prints","ratvenom"],
+        "addons": ["tiara","beanie","succubus_wings","golden_laurel","teemo_hat"],
+        "effects": []
+      }
     },
     {
       "uuid": "c4a5ae4e-003a-4fa4-9016-0eeaa93680b5",
       "name": "SantatronXY",
       "note": "",
-      "tier": "platinum"
+      "tier": "platinum",
+      "cosmetics": {
+        "trails": ["wolf_prints","ratvenom"],
+        "addons": ["tiara","beanie","succubus_wings","golden_laurel","teemo_hat"],
+        "effects": []
+      }
     },
     {
       "uuid": "cc958356-3c96-4bc8-89b6-496b15951134",
