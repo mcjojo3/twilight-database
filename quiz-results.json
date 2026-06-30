@@ -72,6 +72,21 @@
         { "user": "@Nyx", "score": "6/15", "reward": "none" },
         { "user": "@Mads", "score": "6/15", "reward": "none" }
       ]
+    },
+    {
+      "title": "CreRaces 5 Year Anniversary",
+      "link": "",
+      "date": "",
+      "finished": false,
+      "results": [
+        { "place": "🥇", "user": "", "score": "", "reward": "undecided" },
+        { "place": "🥈", "user": "", "score": "8/15", "reward": "undecided" },
+        { "place": "🥉", "user": "", "score": "", "reward": "undecided" },
+      ],
+      "honourable_mentions": [
+        { "user": "", "score": "", "reward": "none" },
+        { "user": "", "score": "", "reward": "none" }
+      ]
     }
   ]
 }
